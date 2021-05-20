@@ -1,0 +1,9 @@
+**/.gradle
+**/build
+*.iml
+.idea/
+!.idea/codeStyles/Project.xml
+!.idea/codeStyles/codeStyleConfig.xml
+**/target
+**/.DS_Store
+.mvn/maven.config
